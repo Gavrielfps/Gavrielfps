@@ -1,9 +1,9 @@
-# 🏄‍♂️ Dom Henrique
+# 🎩 Dom Henrique
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Boy learning programming (artist, student and curious)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
-
+Hello! My name is Dom Henry (in Brazilian portuguese "Dom Henrique"), and i'm learning to code. I've been interessed in technology since i was child. I believe that programming, whether back-end or front-end, can help development of humanity.
+I speak fluently portuguese and recently been increasing my british english. I plan to learn french and italian as well. I like drawing, math, video editing, researching and many of things.
    <p align="left">
       <a href="https://www.instagram.com/dom_hrq/">
          <img alt="Instagram Followers" title="Follow me in Instagram!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
@@ -27,18 +27,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![ai isn't a fad.](https://ytcards.demolab.com/?id=Iz3vFUTSRuc&title=ai+isn%27t+a+fad.&lang=en&timestamp=1749133200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3544 "ai isn't a fad.")](https://www.youtube.com/watch?v=Iz3vFUTSRuc)
-[![How to ACTUALLY Learn a New Codebase](https://ytcards.demolab.com/?id=jqHXJ3O7WGw&title=How+to+ACTUALLY+Learn+a+New+Codebase&lang=en&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "How to ACTUALLY Learn a New Codebase")](https://www.youtube.com/watch?v=jqHXJ3O7WGw)
-[![My Trip to Silicon Valley](https://ytcards.demolab.com/?id=6sgcrQGP3iA&title=My+Trip+to+Silicon+Valley&lang=en&timestamp=1748902520&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79 "My Trip to Silicon Valley")](https://www.youtube.com/watch?v=6sgcrQGP3iA)
-[![Coding with Claude 4 is actually insane](https://ytcards.demolab.com/?id=lhjGDKqutB0&title=Coding+with+Claude+4+is+actually+insane&lang=en&timestamp=1748105710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1187 "Coding with Claude 4 is actually insane")](https://www.youtube.com/watch?v=lhjGDKqutB0)
-[![You’ll Never Manually Update the DOM Again // Here’s Why](https://ytcards.demolab.com/?id=gNta-P4Vf7Q&title=You%E2%80%99ll+Never+Manually+Update+the+DOM+Again+%2F%2F+Here%E2%80%99s+Why&lang=en&timestamp=1747162837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=509 "You’ll Never Manually Update the DOM Again // Here’s Why")](https://www.youtube.com/watch?v=gNta-P4Vf7Q)
-[![Netflix is Built on Java](https://ytcards.demolab.com/?id=sMPMiy0NsUs&title=Netflix+is+Built+on+Java&lang=en&timestamp=1746795687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813 "Netflix is Built on Java")](https://www.youtube.com/watch?v=sMPMiy0NsUs)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
