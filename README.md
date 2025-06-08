@@ -2,7 +2,7 @@
 
 **`Boy learning programming (artist, student and curious)`**
 
-Hello! My name is Dom Henry (in Brazilian portuguese "Dom Henrique"), and i'm learning to code. I've been interessed in technology since i was child. I believe that programming, whether back-end or front-end, can help development of humanity.
+Hello! My name is **Dom Henry** (in Brazilian portuguese "***Dom Henrique***"), and i'm learning to code. I've been interessed in technology since i was child. I believe that programming, whether back-end or front-end, can help development of humanity.
 I speak fluently portuguese and recently been increasing my british english. I plan to learn french and italian as well. I like drawing, math, video editing, researching and many of things.
 <!--
    <p align="left">
