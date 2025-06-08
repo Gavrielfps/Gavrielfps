@@ -1,4 +1,4 @@
-# 🎩 Dom Henrique
+# 🎩 Dom Henry
 
 **`Boy learning programming (artist, student and curious)`**
 
@@ -33,9 +33,6 @@ I speak fluently portuguese and recently been increasing my british english. I p
 
 #
 
-
-
-#
 
 ### 📊 Stats
 
