@@ -1,9 +1,6 @@
-# 🎩 Dom Henry
+# 🎩 Hi! My name is João Henrique! | Dom Henrique
 
-**`Boy learning programming (artist, student and curious)`**
-
-Hello! My name is **Dom Henry** (in Brazilian portuguese "***Dom Henrique***"), and i'm learning to code. I've been interessed in technology since i was child. I believe that programming, whether back-end or front-end, can help development of humanity.
-I speak fluently portuguese and recently been increasing my british english. I plan to learn french and italian as well. I like drawing, math, video editing, researching and many of things.
+Hello! My name is **Dom Henry** (in Brazilian portuguese "***Dom Henrique***"), and i'm learning to code.
 <!--
    <p align="left">
       <a href="https://www.instagram.com/dom_hrq/">
@@ -14,23 +11,13 @@ I speak fluently portuguese and recently been increasing my british english. I p
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 -->
----
 
-### 🧰 Languages that i learning
-#### General
+### 🧰 Languages and tools that i use
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br>
-
-#### Back-End
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<br>
-
-#### Front-End
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<br />
-
 #
 
 
