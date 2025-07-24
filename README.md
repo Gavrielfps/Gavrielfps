@@ -23,3 +23,4 @@ Hello! My name is **Dom Henry** (in Brazilian portuguese "***Dom Henrique***"), 
 
 
 ![Dom Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dom-henrique&show_icons=true&theme=dark&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-henrique&layout=compact&theme=dark)
