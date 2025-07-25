@@ -1,6 +1,11 @@
 # 🎩 Hi! My name is João Henrique! | Dom Henrique
 
-Hello! My name is **Dom Henry** (in Brazilian portuguese "***Dom Henrique***"), and i'm learning to code.
+- Computer Science student;
+- Roman Catholic;
+- High school diploma with integrated computer science;
+- Focusing on frontend, mobile, and game development.
+
+***Ave Christus Rex!***
 <!--
    <p align="left">
       <a href="https://www.instagram.com/dom_hrq/">
