@@ -1,4 +1,4 @@
-# 🎩 Hi! My name is João Henrique! | Dom Henrique
+# 🎩 Hi! I'm Dom Henrique!
 
 - Computer Science student;
 - Roman Catholic;
