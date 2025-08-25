@@ -1,9 +1,9 @@
 # 🎩 Hi! I'm Dom Henrique!
 
 - Computer Science student;
-- Roman Catholic;
+- "Between Us" author;
 - High school diploma with integrated computer science;
-- Focusing on frontend, mobile, and game development.
+- Focusing on web, mobile, and game development.
 
 ***Ave Christus Rex!***
 <!--
