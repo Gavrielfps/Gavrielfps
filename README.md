@@ -1,11 +1,10 @@
-# 🎩 Hi! I'm Dom Henrique11!
+# 🔎 Hello! I'm Gabriel Andrade!
 
 - Computer Science student;
-- "Between Us" author;
 - High school diploma with integrated computer science;
-- Focusing on web, mobile, and game development.
+- Focusing on web, pyhton.
 
-***Ave Christus Rex!***
+***Salmos 148:12-13***
 <!--
    <p align="left">
       <a href="https://www.instagram.com/dom_hrq/">
