@@ -1,7 +1,7 @@
 # 🔎 Hello! I'm Gabriel Andrade!
 
 - Computer Science student;
-- High school diploma with integrated computer science;
+- High school diploma with integrated technical qualification in Agroecology;
 - Focusing on web, pyhton.
 
 ***Salmos 148:12-13***
