@@ -28,5 +28,5 @@
 <br>
 
 # 🔎 Statistics
-![Dom Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dom-henrique&show_icons=true&theme=dark&icon_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-henrique&layout=compact&theme=dark&custom_title=Technologies)
+![Gavrielfps GitHub stats](https://github-readme-stats.vercel.app/api?username=gavrielfps&show_icons=true&theme=dark&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavrielfps&layout=compact&theme=dark&custom_title=Technologies)
